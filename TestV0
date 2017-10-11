@@ -1,8 +1,0 @@
-int i = 0;
-i *= 10;
-i++;
-if(i != 0){
-    System.exit(-1);
-}
-
-System.out.println("You're done!");
