@@ -12,4 +12,4 @@ The goal of this project is to make our robot move again!
 
 ### When is the deadline? ###
 
-* January 2018
+* January 2018 - Keep at it!
